@@ -1,4 +1,15 @@
 #escudo {
     width: 90px;
-    height: 105px;
+    height: 100px;
+}
+
+#navbar {
+    background-color: rgb(15, 115, 197);
+    color: rgb(255, 255, 255);
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 20px;
 }
