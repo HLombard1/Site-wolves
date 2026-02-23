@@ -25,6 +25,7 @@ body{
 
 #Noticias {
     display: flex;
+    flex-wrap: wrap;
     text-align: center;
     justify-content: space-around;
     padding: 6px;
@@ -38,4 +39,10 @@ body{
 .img_noticia{
     height: 300px;
     width: 600px;
+}
+#tds{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgb(15, 115, 197);
+    border: 3px solid black;
 }
