@@ -53,7 +53,7 @@ body{
     margin: 40px;
 }
 
-#titulo_escalacao{
+#tescalacao{
     text-align: center;
     display: flex;
     justify-content: space-around;
@@ -63,7 +63,7 @@ body{
    display: flex;
    align-items: flex-start;
    justify-content: space-around;
-   align-items: center
+   align-items: center;
 }
 .jogador{
     text-align: center;
