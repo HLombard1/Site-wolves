@@ -46,3 +46,30 @@ body{
     background-color: rgb(15, 115, 197);
     border: 3px solid black;
 }
+
+.escalacao{
+    text-align: center;
+    background-color: rgb(94, 138, 209);
+    margin: 40px;
+}
+
+#titulo_escalacao{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+#jogadores{
+   display: flex;
+   align-items: flex-start;
+   justify-content: space-around;
+   align-items: center
+}
+.jogador{
+    text-align: center;
+    
+}
+
+#icon_jogador{
+    width: 52px;
+}
